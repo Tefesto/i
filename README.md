@@ -1,11 +1,12 @@
 # Shared source
 
-🖼️ Images /i  
-📃 Texts /t  
+🖼️ /image  
+📃 /note  
 
 `git add .`  
-`git commit -m "Add images"`  
+`git commit -m "Add info"`  
 `git push origin main`  
 
-`![](https://raw.githubusercontent.com/Tefesto/share/main/i/00000000.webp)`  
-`![](https://raw.githubusercontent.com/Tefesto/share/main/t/00000000.md)`  
+`https://raw.githubusercontent.com/Tefesto/share/main/image/00000000.webp`  
+`https://raw.githubusercontent.com/Tefesto/share/main/note/00000000.md`  
+
