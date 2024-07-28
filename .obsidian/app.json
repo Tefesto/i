@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "files",
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "propertiesInDocument": "hidden",
+  "newLinkFormat": "relative"
+}
