@@ -14,12 +14,37 @@
               "type": "markdown",
               "state": {
                 "file": "notes/Люфа.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e9bd388dcb516167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Сіль.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f7f300b40556f2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Test.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "ca91e780fd22c992",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Люфа.md",
+                "file": "notes/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Люфа.md",
+                "file": "notes/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Люфа.md"
+                "file": "notes/Test.md"
               }
             }
           }
@@ -147,11 +171,12 @@
       "command-palette:Відкрити меню команд": false
     }
   },
-  "active": "71bbe468376d575a",
+  "active": "f7f300b40556f2f9",
   "lastOpenFiles": [
+    "notes/Test.md",
     "notes/Сіль.md",
-    "notes/Люфа.md",
     "files/f71096cb.webp",
+    "notes/Люфа.md",
     "files/f59bbd99.webp",
     "files/7549fe3a.webp",
     "files/964d5b12.jpg",
